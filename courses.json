@@ -1,0 +1,12 @@
+[
+  {
+    "code": "1",
+    "name": "python",
+    "max_degree": "500"
+  },
+  {
+    "code": "2",
+    "name": "c#",
+    "max_degree": "500"
+  }
+]
